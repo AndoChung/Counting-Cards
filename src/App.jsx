@@ -7,7 +7,7 @@ function App() {
 //     <h1>hello</h1>
 //   )
 // }
-  let numOfDecks = 1;
+  let numOfDecks = 6;
 
   const buildDeck = () => {
     const newDeck = [];
